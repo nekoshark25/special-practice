@@ -2,6 +2,21 @@
 title: ユーラシア亜熱帯ジェット(ESWJ)の弱体化に関する研究
 description: 人為起源エアロゾルが夏季アジア気候に与える影響の解析
 ---
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<style>
+  /* 数式と本文の見た目を整えるCSS */
+  .page-break { break-before: page; border-top: 1px solid #ccc; margin: 20px 0; }
+  blockquote { font-style: italic; color: #555; }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+  th { background-color: #f4f4f4; }
+</style>
+
+
 # S1 特別演習
 ---
 - [S1 特別演習](#s1-特別演習)
